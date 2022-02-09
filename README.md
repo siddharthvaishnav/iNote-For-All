@@ -1,4 +1,4 @@
 ﻿# iNote-For-All
-Create a dbsid database
-add notes table
-add sno,title,description,tstamp
+1. Create a dbsid database;
+2. add notes table;
+3. add sno,title,description,tstamp;
