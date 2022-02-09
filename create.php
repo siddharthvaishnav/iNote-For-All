@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
     $sql="INSERT INTO `notes` ( `title`, `description`) VALUES ( '$title', '$description')";
     $result=mysqli_query($con,$sql);
     if ($result) {
-     // $insert=true;
+     //11 $insert=true;
     } 
     else {
         echo "Error!note not added";
